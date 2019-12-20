@@ -5,3 +5,7 @@
 
 ## 三方库
 
+* [class-validator](https://github.com/typestack/class-validator)
+
+
+
