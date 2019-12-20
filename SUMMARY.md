@@ -6,6 +6,7 @@
 ## 三方库
 
 * [class-validator](https://github.com/typestack/class-validator)
+* [class-transformer](https://github.com/typestack/class-transformer)
 
 
 
